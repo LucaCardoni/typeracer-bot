@@ -1,2 +1,4 @@
 pytesseract
 pynput
+pyautogui
+keyboard
