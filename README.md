@@ -159,3 +159,9 @@ Enjoy!
 
 ## WARNING!
 This tool is only for educational purpose. I will not be responsible for any consequences if you use this tool for other purposes except education.
+
+## CONTRIBUTING
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the [GPL-2.0 license](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt).
