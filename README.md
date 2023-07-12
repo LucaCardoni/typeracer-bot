@@ -163,5 +163,5 @@ This tool is only for educational purpose. I will not be responsible for any con
 ## CONTRIBUTING
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
+## LICENSE
 This project is licensed under the [GPL-2.0 license](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt).
