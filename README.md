@@ -5,7 +5,7 @@ First of all, you should install tesseract OCR from [the original github repo](h
 
 Downoad now the repo, or clone it with git
 
-`git clone https://github.com/Rickionee/typeracer-bot`
+`git clone https://github.com/LucaCardoni/typeracer-bot`
 
 Open a terminal window wherever you saved the repo and type
 
